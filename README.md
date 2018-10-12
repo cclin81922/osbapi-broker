@@ -1,6 +1,6 @@
 # Implementation
 
-See https://github.com/cclin81922/osb-starter-pack
+See https://github.com/cclin81922/osb-starter-pack/tree/osbapi-broker
 
 # Related Resources
 
