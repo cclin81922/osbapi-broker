@@ -12,3 +12,4 @@ See https://github.com/cclin81922/osb-starter-pack/tree/osbapi-broker
 * [Another library for developing an open service broker - pivotal-cf/brokerapi](https://github.com/pivotal-cf/brokerapi)
 * [GCP broker](https://github.com/GoogleCloudPlatform/gcp-service-broker)
 * [Azure broker](https://github.com/Azure/open-service-broker-azure)
+* [Open service broker API spec](https://github.com/openservicebrokerapi/servicebroker/blob/master/spec.md)
